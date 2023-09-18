@@ -11,7 +11,7 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              We have been in the Telecommunications industry. Setting up Radio and Satellite communications
+              We are in the Telecommunications industry. Setting up Radio and Satellite communications all over Africa and beyond
             </p>
           </div>
         </div>
